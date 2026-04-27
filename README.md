@@ -1,5 +1,6 @@
 # fitness-data-visualization-project
 Fitness Analytics Dashboard built with Power BI to track gym performance, members demographics, calorie calculations, and financial metrics. Includes BMI calculator, membership segmentation, and interactive visuals for actionable insights.
+![overall](fitness_images/overall.PNG)
 
 
 ## Overview
